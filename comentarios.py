@@ -1,0 +1,1 @@
+# usa-se "#" no começo da linha para que o interpretador não leia a linha. vale para uma única linha. 
